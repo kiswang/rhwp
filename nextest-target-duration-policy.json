@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "fallback_seconds": 1,
+  "measurement_sources": {
+    "b": {
+      "run_id": "33137102213",
+      "ref": "refs/heads/devel",
+      "sha": "5645e1f5bbd8cd28380aa153a29f4ddcf58c5405"
+    },
+    "c": {
+      "run_id": "33137102213",
+      "ref": "refs/heads/devel",
+      "sha": "5645e1f5bbd8cd28380aa153a29f4ddcf58c5405"
+    },
+    "d": {
+      "run_id": "33137102213",
+      "ref": "refs/heads/devel",
+      "sha": "5645e1f5bbd8cd28380aa153a29f4ddcf58c5405"
+    }
+  },
+  "targets": {
+    "cli_exit_codes": 1.7790000000000001,
+    "issue_1144": 0.034,
+    "issue_4055_b1_chart_edit_probe": 0.436,
+    "issue_4098_legacy_chart_grid": 0.5740000000000001,
+    "issue_4099_hwpx_chart_to_hwp": 0.624,
+    "issue_4100_chart_data_edit": 5.001999999999999,
+    "overflow_cell_baseline": 198.817,
+    "regression_suite_001": 13.165,
+    "regression_suite_002": 20.770999999999997,
+    "regression_suite_003": 183.55700000000002,
+    "regression_suite_004": 43.514,
+    "regression_suite_005": 9.933,
+    "regression_suite_006": 38.57699999999999,
+    "regression_suite_007": 20.406999999999996,
+    "regression_suite_008": 10.875999999999987,
+    "regression_suite_009": 539.3370000000001,
+    "regression_suite_010": 29.010000000000005,
+    "regression_suite_011": 48.27200000000003,
+    "regression_suite_012": 286.34499999999997,
+    "regression_suite_013": 120.872,
+    "regression_suite_014": 124.01,
+    "regression_suite_015": 395.87199999999996,
+    "regression_suite_016": 19.07399999999999,
+    "regression_suite_017": 16.580999999999985,
+    "regression_suite_018": 49.913,
+    "regression_suite_019": 8.093999999999998,
+    "regression_suite_020": 20.862999999999996,
+    "regression_suite_021": 21.987999999999996,
+    "regression_suite_022": 18.934,
+    "regression_suite_023": 48.85800000000002,
+    "regression_suite_024": 36.90000000000004,
+    "regression_suite_025": 138.939,
+    "regression_suite_026": 32.644000000000005,
+    "regression_suite_027": 54.651000000000046,
+    "regression_suite_028": 137.318,
+    "regression_suite_029": 9.105999999999996,
+    "regression_suite_030": 11.52599999999998,
+    "regression_suite_031": 54.236,
+    "regression_suite_032": 18.085
+  }
+}
